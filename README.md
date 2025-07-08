@@ -1,2 +1,2 @@
 # machine-learning-specialization
-Code, notebooks, and mini-projects for my Machine Learning Specialization by DeepLearning.AI
+Custom code, notebooks, and mini-projects for my Machine Learning Specialization by DeepLearning.AI
